@@ -13,7 +13,7 @@
   - PHP 8.1+ (README indicates 8.2; composer requires ^8.1)
   - JavaScript runtime: Node for Vite build (version not pinned; Vite ^5)
 - **Frameworks/Libraries**:
-  - Laravel Framework ^10.10how can I change networrk_access to 
+  - Laravel Framework ^10.10
   - Firebase PHP-JWT ^6.10 (custom JWT flow)
   - Stripe PHP ^16.2
   - Vite ^5 with `laravel-vite-plugin`
